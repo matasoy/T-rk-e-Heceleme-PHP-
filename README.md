@@ -1,1 +1,1 @@
-# T-rk-e-Heceleme-PHP-
+# Php ile Türkçe heceleme scripti
